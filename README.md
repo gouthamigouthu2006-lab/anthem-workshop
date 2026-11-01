@@ -4,7 +4,7 @@ A collaborative Git and GitHub project created by a team of three members to pra
 
 Meet the Team
 
-Name| Role| What they did
+Name| Role| What they did 
 Gouthami| Team Member| Created the project contribution file and worked with Git configuration and repository management
 Chaitra| Team Member| Cloned the repository, contributed anthem content, and created and merged a feature branch
 Shwetha| Team Member| Contributed anthem content and participated in branch management and merge conflict resolution
