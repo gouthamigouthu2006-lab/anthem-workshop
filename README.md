@@ -52,3 +52,4 @@ Project Outcome
 Through this workshop, we gained practical experience using Git, GitHub, Linux users, SSH authentication, branches, commits, and merge conflict resolution.
 
 Successfully completed as a team project by Gouthami, Chaitra, and Shwetha.
+Team contribution: Shwatha
