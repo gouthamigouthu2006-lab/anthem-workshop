@@ -1,0 +1,8 @@
+Name: Chaitra
+Role: Team Member
+
+Contribution:
+- Practised Git and GitHub.
+- Created and managed branches.
+- Practised commits and merge conflicts.
+- Worked on the National Anthem project.
